@@ -1,0 +1,24 @@
+{
+  "name": "carelink-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lriquelmemtb/carelink-uploader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lriquelmemtb/carelink-uploader/issues"
+  },
+  "homepage": "https://github.com/lriquelmemtb/carelink-uploader#readme",
+  "dependencies": {
+    "minimed-connect-to-nightscout": "^1.5.8"
+  }
+}
